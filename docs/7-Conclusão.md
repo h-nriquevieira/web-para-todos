@@ -32,4 +32,4 @@ Continue praticando e experimentando. O desenvolvimento web é uma jornada cont�
 
 #### Feedback
 
-Que tal nos contar o que achou desse projeto? Clique [nesse link](http://google.com) e responda ao formulário.
+Que tal nos contar o que achou desse projeto? Clique [nesse link](https://forms.gle/TwYfGj4zoGZ3FTo19) e responda ao formulário.
